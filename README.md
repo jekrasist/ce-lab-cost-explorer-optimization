@@ -1,5 +1,10 @@
 # Lab: AWS Cost Explorer and Cost Optimization
 
+There wwasn't any fees charged to my account. I and the Mr. Instructor suspect it might be due to the fact that my account is in free trial. I had a thourought check on this lab and did my best to practice it as if I wasn't on the free trial. I believe I now have enough knowledge on cost optimization.
+
+
+
+
 **Estimated Time:** 90 minutes  
 **Difficulty:** Intermediate  
 **Prerequisites:** Cost Estimation lab completed, AWS account with billing access
@@ -161,9 +166,9 @@ Analyze compute costs in detail.
 
 **📋 EC2 Insights:**
 ```
-Most expensive instance type: ___________________________
-Total EC2 cost last month: $___________________________
-Percentage of total bill: ________%
+Most expensive instance type: ________X___________________
+Total EC2 cost last month: $__________0_________________
+Percentage of total bill: _______X_%
 ```
 
 ### Step 6: Analyze S3 Storage Costs
@@ -183,10 +188,10 @@ Review storage and data transfer costs.
 
 **📋 S3 Analysis:**
 ```
-Total S3 cost: $___________________________
-Storage cost: $___________________________
-Request cost: $___________________________
-Data transfer cost: $___________________________
+Total S3 cost: $______________0_____________
+Storage cost: $________________0___________
+Request cost: $_________________0__________
+Data transfer cost: $____________0_______________
 ```
 
 ---
@@ -207,8 +212,8 @@ Identify regional cost distribution.
 
 **📋 Regional Analysis:**
 ```
-Most expensive region: ___________________________
-Cost: $___________________________
+Most expensive region: ___X________________________
+Cost: $___________0________________
 
 Are you using resources in regions you don't need?
 ___________________________________________________________
@@ -249,6 +254,9 @@ Enable tags for cost tracking.
 5. Note: Tags take 24 hours to appear in Cost Explorer
 
 **📸 Screenshot 9:** Activated cost allocation tags
+<img width="1280" height="831" alt="image" src="https://github.com/user-attachments/assets/a45aad94-d24a-434b-a95b-621fcde9dcae" />
+<img width="1280" height="831" alt="image" src="https://github.com/user-attachments/assets/a45aad94-d24a-434b-a95b-621fcde9dcae" />
+
 
 ### Step 10: Create User-Defined Tags
 
@@ -495,9 +503,9 @@ Compile your analysis into actionable items.
 3. __________________________________________________________
 
 **Expected Total Savings:**
-- Immediate: $__________/month
-- Short-term: $__________/month
-- Long-term: $__________/month
+- Immediate: $______0____/month
+- Short-term: $______0____/month
+- Long-term: $________0__/month
 
 ---
 
@@ -553,6 +561,8 @@ Prepare a cost analysis presentation.
 ✅ **Continuous optimization** is essential for cloud cost management  
 
 ---
+
+
 
 ## Next Steps
 
